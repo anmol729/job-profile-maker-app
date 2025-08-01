@@ -1,0 +1,250 @@
+{
+  "Applicant_data": {
+    "_id": "67497d953dc179edc3671ea2",
+    "firstName": "Suman",
+    "lastName": "Malakar",
+    "email": "malakars041@gmail.com",
+    "phone": "7999972565",
+    "location": {
+      "country": "India",
+      "state": "Chhattisgarh",
+      "city": "Bilaspur"
+    },
+    "password": "123456789",
+    "profilePicture": "https://res.cloudinary.com/dfnxcomj6/image/upload/v1732869528/profile-pics/1732869525276-code.png",
+    "skills": {
+      "hardSkills": [
+        {
+          "_id": "67497ec43dc179edc3671ebb",
+          "skill": "JavaScript",
+          "years": "3"
+        },
+        { "_id": "67497ec43dc179edc3671ebc", "skill": "HTML", "years": "2" },
+        {
+          "_id": "67497ec43dc179edc3671ebd",
+          "skill": "React.js",
+          "years": "1"
+        },
+        { "_id": "67497ec43dc179edc3671ebe", "skill": "Node.js", "years": "4" }
+      ],
+      "softSkills": [
+        {
+          "_id": "67497ec43dc179edc3671eb8",
+          "skill": "Problem Solving",
+          "years": "1"
+        },
+        {
+          "_id": "67497ec43dc179edc3671eb9",
+          "skill": "Team Lead",
+          "years": "3"
+        },
+        {
+          "_id": "67497ec43dc179edc3671eba",
+          "skill": "Emotional Intelligence",
+          "years": "5"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institution": "Rashtriya Indian Military College (RIMC)",
+        "level": "10th",
+        "cgpa": 8,
+        "startDate": "2024-11-01",
+        "endDate": "2024-11-29"
+      },
+      {
+        "institution": "Delhi Public School (DPS)",
+        "level": "12th",
+        "cgpa": 8,
+        "startDate": "2024-11-01",
+        "endDate": "2024-11-30"
+      },
+      {
+        "institution": "IIT Bombay",
+        "degree": "BTech",
+        "specialization": "CS",
+        "level": "UG",
+        "cgpa": 8.97,
+        "startDate": "2024-11-01",
+        "endDate": "2024-11-29"
+      },
+      {
+        "institution": "IIT Bombay",
+        "degree": "MTech",
+        "specialization": "IT",
+        "level": "PG",
+        "cgpa": 7.97,
+        "startDate": "2024-11-01",
+        "endDate": "2024-11-28"
+      },
+      {
+        "institution": "IIT Bombay",
+        "level": "PhD",
+        "cgpa": 8,
+        "startDate": "2024-11-01",
+        "endDate": "2024-11-16"
+      }
+    ],
+    "experience": [
+      {
+        "skills": [],
+        "WorkExperience": [
+          {
+            "jobTitle": "SDE 3",
+            "company": "Google",
+            "startDate": "2024-11-01",
+            "keyResponsibilities": "Working as a team lead",
+            "skillList": ["java", "python", "node"],
+            "location": {
+              "country": "India",
+              "state": "Karnataka",
+              "city": "Bangalore"
+            },
+            "internship": false,
+            "readyToRelocate": false
+          },
+          {
+            "jobTitle": "SDE 1",
+            "company": "Microsoft",
+            "startDate": "2024-10-01",
+            "keyResponsibilities": "Intern",
+            "skillList": ["java", "python", "node"],
+            "internship": true,
+            "internshipType": "Paid",
+            "internshipAmount": "3000"
+          }
+        ]
+      }
+    ],
+    "certificates": [
+      {
+        "WorkExperience": [
+          {
+            "certificationName": "Java",
+            "issuingAuthority": "Google",
+            "dateOfCompletion": "2024-11-01",
+            "validityPeriod": "1",
+            "credentialID": "2434339",
+            "url": "https://github1s.com/LearningProjectMern/Applicant/blob/client/client-mui/src/components/WorkExperienceForm.jsx#L179-L410"
+          }
+        ]
+      }
+    ],
+    "activity": [
+      {
+        "Activity": {
+          "sportsAndAthletics": "123456",
+          "artsAndCulture": "fdfsfszf",
+          "leadershipRoles": "fsfdfsdf",
+          "communityService": "afsfafaf"
+        }
+      }
+    ],
+    "achievement": [
+      {
+        "Achievement": {
+          "academicAchievements": "1234567",
+          "professionalAwards": "dsfsafafa",
+          "scholarships": "sfafafa",
+          "competitionsWon": "afafaf"
+        }
+      }
+    ],
+    "project": [
+      {
+        "Projects": {
+          "projectTitle": "mern e-commerce",
+          "objective": "solve the ",
+          "toolsTechnologies": "java, python",
+          "duration": "1 year",
+          "outcome": "good",
+          "url": "https://www.youtube.com/watch?v=mDAcX4cHpoA"
+        }
+      }
+    ],
+    "research_publication": [
+      {
+        "Research": {
+          "paperTitle": "Java",
+          "journalConference": "java",
+          "publicationYear": "2021",
+          "coAuthors": "Suman",
+          "impactFactor": "1",
+          "url": "https://www.youtube.com/watch?v=mDAcX4cHpoA"
+        }
+      }
+    ],
+    "conferences_seminars": [
+      {
+        "Seminar": {
+          "conferenceName": "Suman",
+          "topicPresented": "Ram",
+          "venueOrganizer": "Google",
+          "role": "Speaker"
+        }
+      }
+    ],
+    "domain_intrest": {
+      "Interest_Domain": { "domains": ["Finance", "Energy", "Health"] }
+    },
+    "experties_area": {
+      "Area_of_Expertise": {
+        "specializedFields": [
+          "Data Science",
+          "AI",
+          "Cybersecurity",
+          "Machine Learning"
+        ]
+      }
+    },
+    "language": [
+      {
+        "Languages": {
+          "languages": [
+            { "name": "English", "proficiency": "Fluent" },
+            { "name": "Spanish", "proficiency": "Basic" }
+          ]
+        }
+      }
+    ],
+    "patent": [
+      {
+        "Patents": [
+          {
+            "patentTitle": "Java",
+            "patentNumber": "123",
+            "issuingAuthority": "Google",
+            "filingApprovalDate": "2024-11-08"
+          }
+        ]
+      }
+    ],
+    "profile_summery": {
+      "Professional_Detail": {
+        "professionalSummary": "working as team lead in Google",
+        "careerObjectives": "become billionaire",
+        "valueProposition": "Paisa"
+      }
+    },
+    "hobbie": {
+      "Hobbies": {
+        "creativeHobbies": "Writing",
+        "recreationalActivities": "Reading",
+        "sportsFitnessActivities": ["Running", "Swimming", "Cycling", "Yoga"]
+      }
+    },
+    "reference": [
+      {
+        "Reference": {
+          "refereeName": "Suman Malakar",
+          "designation": "MERN Full Stack Developer Cum Trainer",
+          "organization": "Suman"
+        }
+      }
+    ],
+    "cv": "https://res.cloudinary.com/dfnxcomj6/raw/upload/v1732871580/cvs/1732871576593-chirag"
+  },
+  "message": "Applicant Data fetched Successfully...!",
+  "success": true
+}
